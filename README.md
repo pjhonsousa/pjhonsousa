@@ -25,4 +25,3 @@
   <a href="https://www.linkedin.com/in/pedro-jonnathan-b070a1265" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
-](https://www.linkedin.com/)
